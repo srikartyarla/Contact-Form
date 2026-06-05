@@ -23,4 +23,4 @@ A contact form built from scratch using semantic HTML5 and CSS.
 
 ## Preview
 
-![Contact Form Preview](screenshot.png)
+<img width="824" alt="Contact Form Preview" src="https://github.com/user-attachments/assets/81a79ccd-718a-41cb-ae0b-f1c57a3cb648" />
